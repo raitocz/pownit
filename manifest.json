@@ -1,0 +1,12 @@
+{
+  "short_name": "Pownit",
+  "name": "Pown.it",
+  "icons": [
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ffffff",
+  "description": "Pown.it legacy archive"
+}
